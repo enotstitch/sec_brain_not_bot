@@ -1,0 +1,12 @@
+{
+  "name": "sec_brain_not_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anna Kessler",
+  "license": "ISC",
+  "description": "Bot for integration with Notion"
+}
